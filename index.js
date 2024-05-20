@@ -1,1 +1,1 @@
-console.log('halo dunia web')
+console.log('halo dunia web JS')
